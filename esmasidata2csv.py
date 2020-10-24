@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
- 
+
 import logging
 import sys
 from openpyxl import load_workbook
-
+ 
 def get_arg():
     logging.debug("esmasidata2csv.get_arg() start")
     try:
