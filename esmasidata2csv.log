@@ -1,0 +1,8 @@
+2020-10-25 10:51:05 WARNING  esmasidata2csv.get_arg() IndexError
+2020-10-25 10:51:55 DEBUG    esmasidata2csv.main() start
+2020-10-25 10:51:55 DEBUG    esmasidata2csv.get_arg() start
+2020-10-25 10:51:55 WARNING  esmasidata2csv.get_arg() IndexError
+2020-10-25 11:03:45 DEBUG    esmasidata2csv.main() start
+2020-10-25 11:03:45 DEBUG    esmasidata2csv.get_arg() start
+2020-10-25 11:03:45 DEBUG    esmasidata2csv.fname() start
+2020-10-25 11:03:45 CRITICAL esmasidata2csv.get_arg() An exception occurred while reading the workbook
