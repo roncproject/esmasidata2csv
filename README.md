@@ -18,10 +18,10 @@ This is a very basic script to convert the xlsx files to .csv  from ESMA
 * On the UNIX/ms windows/MAC/other command line, type: "python esmasidata2csv.py <name of the esma file>" and press enter
 * The csv list will be printed to your screen
 * In the app directory a file called "esmasidata2csv.log" will appear. It contains technical logging info
-* If you want to save the output, you can (on ms windows and UNIX/Linux) type: "python esmasidata2csv.py <name of the esma file> **> outputfile.csv**"  
+* If you want to save the output, you can (on ms windows and UNIX/Linux) type: "python esmasidata2csv.py <name of the esma file> **> outputfile.csv**" (Or any name you want for the output file) 
 
 # TODO
-* Nothing, it works as I like it.
+* Nothing To Do, it works as I like it.
 
 # Remarks
 * Yes, you an of course convert the ESMA .xlsx files with MS Office Excel , or LibreOffice Calc, or any other way. 
