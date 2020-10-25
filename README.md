@@ -24,5 +24,5 @@ This is a very basic script to convert the xlsx files to .csv  from ESMA
 * Nothing, it works as I like it.
 
 # Remarks
-* Yes, you an of course convert the ESMA .xlsx files with MS Office Excel , r LibreOffice Calc, or any other way. 
-* But for me this is a much less time-consuming work. 
+* Yes, you an of course convert the ESMA .xlsx files with MS Office Excel , or LibreOffice Calc, or any other way. 
+* But for me this is a much less time-consuming way. 
